@@ -1,0 +1,25 @@
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+
+
+
+  .options {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    padding: auto;
+    align-items: center;
+    justify-content: flex-end;
+    font-family: 'Times New Roman', Times, serif;
+
+    .option {
+      padding: 10px 15px;
+      color: white;
+    }
+  }
+}
+
